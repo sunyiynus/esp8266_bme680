@@ -22,5 +22,6 @@ BME680<->ESP8266-01S连线:
 
 
 最终效果:
-1. ![IMG_8412](https://github.com/sunyiynus/esp8266_bme680/assets/81316472/6be68e3b-11cc-4bea-8392-5297fa1ea28a)
+1. 如图所示：
+ ![IMG_8412](https://github.com/sunyiynus/esp8266_bme680/assets/81316472/6be68e3b-11cc-4bea-8392-5297fa1ea28a)
 
