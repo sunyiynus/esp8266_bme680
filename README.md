@@ -17,5 +17,9 @@
 
 
 BME680<->ESP8266-01S连线:
-    IO2 -> SDA
-    IO0 -> SCL
+1. IO2 -> SDA
+2. IO0 -> SCL
+
+
+最终效果:
+1. 
